@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Atlanta Hawks",
+        "city": "Atlanta",
+        "conference": "East",
+        "division": "Southeast"
+    },
+    {
+        "name": "Boston Celtics",
+        "city": "Boston",
+        "conference": "East",
+        "division": "Atlantic"
+    },
+    {
+        "name": "Brooklyn Nets",
+        "city": "Brooklyn",
+        "conference": "East",
+        "division": "Atlantic"
+    },
+    {
+        "name": "Charlotte Hornets",
+        "city": "Charlotte",
+        "conference": "East",
+        "division": "Southeast"
+    },
+    {
+        "name": "Chicago Bulls",
+        "city": "Chicago",
+        "conference": "East",
+        "division": "Central"
+    },
+    {
+        "name": "Cleveland Cavaliers",
+        "city": "Cleveland",
+        "conference": "East",
+        "division": "Central"
+    },
+    {
+        "name": "Dallas Mavericks",
+        "city": "Dallas",
+        "conference": "West",
+        "division": "Southwest"
+    },
+    {
+        "name": "Denver Nuggets",
+        "city": "Denver",
+        "conference": "West",
+        "division": "Northwest"
+    },
+    {
+        "name": "Detroit Pistons",
+        "city": "Detroit",
+        "conference": "East",
+        "division": "Central"
+    },
+    {
+        "name": "Golden State Warriors",
+        "city": "Golden State",
+        "conference": "West",
+        "division": "Pacific"
+    },
+    {
+        "name": "Houston Rockets",
+        "city": "Houston",
+        "conference": "West",
+        "division": "Southwest"
+    },
+    {
+        "name": "Indiana Pacers",
+        "city": "Indiana",
+        "conference": "East",
+        "division": "Central"
+    },
+    {
+        "name": "LA Clippers",
+        "city": "LA",
+        "conference": "West",
+        "division": "Pacific"
+    },
+    {
+        "name": "Los Angeles Lakers",
+        "city": "Los Angeles",
+        "conference": "West",
+        "division": "Pacific"
+    },
+    {
+        "name": "Memphis Grizzlies",
+        "city": "Memphis",
+        "conference": "West",
+        "division": "Southwest"
+    },
+    {
+        "name": "Miami Heat",
+        "city": "Miami",
+        "conference": "East",
+        "division": "Southeast"
+    },
+    {
+        "name": "Milwaukee Bucks",
+        "city": "Milwaukee",
+        "conference": "East",
+        "division": "Central"
+    },
+    {
+        "name": "Minnesota Timberwolves",
+        "city": "Minnesota",
+        "conference": "West",
+        "division": "Northwest"
+    },
+    {
+        "name": "New Orleans Pelicans",
+        "city": "New Orleans",
+        "conference": "West",
+        "division": "Southwest"
+    },
+    {
+        "name": "New York Knicks",
+        "city": "New York",
+        "conference": "East",
+        "division": "Atlantic"
+    },
+    {
+        "name": "Oklahoma City Thunder",
+        "city": "Oklahoma City",
+        "conference": "West",
+        "division": "Northwest"
+    },
+    {
+        "name": "Orlando Magic",
+        "city": "Orlando",
+        "conference": "East",
+        "division": "Southeast"
+    },
+    {
+        "name": "Philadelphia 76ers",
+        "city": "Philadelphia",
+        "conference": "East",
+        "division": "Atlantic"
+    },
+    {
+        "name": "Phoenix Suns",
+        "city": "Phoenix",
+        "conference": "West",
+        "division": "Pacific"
+    },
+    {
+        "name": "Portland Trail Blazers",
+        "city": "Portland",
+        "conference": "West",
+        "division": "Northwest"
+    },
+    {
+        "name": "Sacramento Kings",
+        "city": "Sacramento",
+        "conference": "West",
+        "division": "Pacific"
+    },
+    {
+        "name": "San Antonio Spurs",
+        "city": "San Antonio",
+        "conference": "West",
+        "division": "Southwest"
+    },
+    {
+        "name": "Toronto Raptors",
+        "city": "Toronto",
+        "conference": "East",
+        "division": "Atlantic"
+    },
+    {
+        "name": "Utah Jazz",
+        "city": "Utah",
+        "conference": "West",
+        "division": "Northwest"
+    },
+    {
+        "name": "Washington Wizards",
+        "city": "Washington",
+        "conference": "East",
+        "division": "Southeast"
+    }
+]
